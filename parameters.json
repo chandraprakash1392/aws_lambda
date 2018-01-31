@@ -1,0 +1,10 @@
+{
+  "database_host":   "", 
+  "database_port":   "",
+  "database_user":   "",
+  "database_pass":   "",
+  "database_name":   "",
+  "aws_region_name": "",
+  "access_token":    "",
+  "secret_token":    ""
+}
